@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/label"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:textColor="#2B60DE"
+    android:dividerHeight="10dp"
+    android:layout_gravity="center"
+    android:gravity="center_vertical"
+    android:footerDividersEnabled="false"
+    android:headerDividersEnabled="false"
+    >
+
+</TextView>
